@@ -21,16 +21,16 @@
       "description": "TribalGamerNetwork"
     },
     "STICKER": {
-      "description": "set your bot sticker package name ex:- Ayush"
+      "description": "TribalGamerNetwork"
     },
      "id": {
-      "description": "Put your session id here"
+      "description": "_M_A_R_I_A_Rm9yY2VmdWxEYW1zZWwK"
     },     
      "PM_BLOCKER": {
-      "description": "type True for enable Pm blocker"
+      "description": "True"
     },
      "WELCOME": {
-      "description": "Type True for enable welcome message"
+      "description": "True"
     }     
   },
     "buildpacks": [
